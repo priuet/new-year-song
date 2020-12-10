@@ -1,0 +1,33 @@
+body {
+	background-color: #90D4C9;
+	height: 100vh;
+	margin: 50px;
+	font-family: 'Arial';
+}
+img {
+	display: flex;
+    height: 50vh;
+    float: right;
+}
+#songName {
+	margin-top: 25px;
+	background: springgreen;
+	border: 5px solid crimson;
+	width: 300px;
+	height: auto;
+	font-size: 18px;
+	text-align: center;
+	text-transform: uppercase;
+	padding: 20px;
+}
+#lyrics {
+	margin-top: 25px;
+	background: papayawhip;
+	border: 5px solid slateblue;
+	width: 80vw;
+	height: auto;
+}
+button {
+	margin-top: 20px;
+	font-size: 20px;
+}
